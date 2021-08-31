@@ -83,13 +83,13 @@ if [ $MVC == 0 ]; then
 	echo ""
 	echo "=== *** ==="
 	echo "Starting a Flask Project ($MODE)"
-	echo "in $PWD/$DS"
+	echo "in $PWD/$DST"
 	echo "=== *** ==="
 else
 	echo ""
 	echo "=== *** ==="
 	echo "Starting a MVC Flask Project ($MODE)"
-	echo "in $PWD/$DS"
+	echo "in $PWD/$DST"
 	echo "=== *** ==="
 fi
 
